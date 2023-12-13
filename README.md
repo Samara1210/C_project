@@ -1,1 +1,4 @@
-# C_project
+# C sharp project
+
+# Online event registration system
+
